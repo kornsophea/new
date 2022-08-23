@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeamApp</string>
+    <string name="login_account">Login Account</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+
+</resources>
